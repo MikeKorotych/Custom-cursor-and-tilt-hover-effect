@@ -1,2 +1,2 @@
-# Custom cursor and titl hover effect
+# Custom cursor and tilt hover effect
  
